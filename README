@@ -1,0 +1,4 @@
+Show that the probability density function of a particle that performs a
+random walk is a Gaussian, starting from a binomial distribution: p=0.5, k
+k is the number of steps to the right, n is total number of steps.
+
